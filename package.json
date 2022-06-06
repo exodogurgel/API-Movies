@@ -1,0 +1,18 @@
+{
+  "name": "api-movies",
+  "version": "1.0.0",
+  "description": "API for movies",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/server.js"
+  },
+  "keywords": [],
+  "author": "Êxodo Gurgel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
